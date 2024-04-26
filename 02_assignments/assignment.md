@@ -34,7 +34,13 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-Your answer here...
+1. Paper Rings
+2. season 10
+3. n
+4. r
+5. Lucky
+6. the
+
 
 
 
