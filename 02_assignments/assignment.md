@@ -35,13 +35,13 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 1. Paper Rings
-2. season 10
-3. n
-4. r
+2. 10
+3. meets
+4. Legacies
 5. Lucky
 6. the
 
-
+the lucky legacies meets 10 paper rings.
 
 
 
