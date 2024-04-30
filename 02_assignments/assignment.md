@@ -37,11 +37,11 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 1. Paper Rings
 2. 10
 3. meets
-4. and
+4. past
 5. Lucky
 6. stars
 
-Paper rings 10 meets and lucky stars.
+Paper rings 10 meets past lucky stars.
 
 
 
